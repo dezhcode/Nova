@@ -1,0 +1,6 @@
+{
+  "name": "Forge — AI Web Development Agent",
+  "description": "Next-generation AI Web Development Workspace with live agent tree, planning, intelligent diffs, and real-time preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
